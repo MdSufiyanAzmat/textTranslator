@@ -1,16 +1,45 @@
-# React + Vite
+# 🌐 AI Translator - Free & Open Source Translation Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, modern web application that provides instant text translation between multiple languages. Built with React and Tailwind CSS, this translator uses a completely free API with no sign-up or API keys required.
 
-Currently, two official plugins are available:
+![React](https://img.shields.io/badge/React-19-blue.svg)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Free](https://img.shields.io/badge/Price-FREE-brightgreen.svg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **🎯 Instant Translation** - Real-time text translation between 9+ languages
+- **🚀 No Sign-up Required** - Start translating immediately without any registration
+- **💰 Completely Free** - No API keys, no credit cards, no hidden costs
+- **🎨 Modern UI** - Beautiful dark theme interface with smooth animations
+- **📱 Responsive Design** - Works perfectly on desktop, tablet, and mobile devices
+- **⚡ Fast Performance** - Optimized API calls with loading states
+- **🌍 Multiple Languages** - Support for major world languages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Supported Languages
 
-## Expanding the ESLint configuration
+| Language | Code |
+|----------|------|
+| Spanish | `es` |
+| French | `fr` |
+| German | `de` |
+| Italian | `it` |
+| Hindi | `hi` |
+| Japanese | `ja` |
+| Portuguese | `pt` |
+| Russian | `ru` |
+| Arabic | `ar` |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+- Node.js (v14 or higher)
+- npm (v6 or higher) or yarn
+
+## 🛠️ Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/ai-translator.git
+cd ai-translator
