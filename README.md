@@ -36,10 +36,3 @@ A beautiful, modern web application that provides instant text translation betwe
 Before you begin, ensure you have the following installed:
 - Node.js (v14 or higher)
 - npm (v6 or higher) or yarn
-
-## 🛠️ Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/mdsufiyanazmat/ai-translator.git
-cd ai-translator
